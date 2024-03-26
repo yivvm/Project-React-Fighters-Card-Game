@@ -1,0 +1,10 @@
+.Fighters {
+    background-color: rgb(186, 186, 190);
+    height: 100%;
+    display: flex;
+    gap: 10px;
+    overflow: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
